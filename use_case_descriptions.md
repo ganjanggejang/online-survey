@@ -86,8 +86,8 @@
 | 2.         | 3.             |
 
 **Extensions**
-- After step N, 관리자는 상세 내용 보기를 수행할 수 있다. (Use Case 6)
-- After step N, 관리자는 특정 설문 항목 삭제를 수행할 수 있다. (Use Case 7)
+- After step 1, 관리자는 상세 내용 보기를 수행할 수 있다. (Use Case 6)
+- After step 1, 관리자는 특정 설문 항목 삭제를 수행할 수 있다. (Use Case 7)
 
 **Alternative Courses**
 - 등록된 설문이 없으면 "등록된 설문이 없습니다"를 표시한다.
