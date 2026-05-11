@@ -1,4 +1,4 @@
-# 팀 코드: `<TODO: 10281>`
+# 팀 코드: `<10281>`
 
 # Use Case Descriptions
 
