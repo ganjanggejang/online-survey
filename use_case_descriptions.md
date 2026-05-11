@@ -2,14 +2,6 @@
 
 # Use Case Descriptions
 
-> **작성 가이드**
-> - 각 use case마다 Actor Action / System Response 2열 표로 **step-by-step** 작성
-> - ⚠️ 시스템 **내부 동작** (DB 조회, 모듈 호출 등) 작성 금지 (-9점)
-> - ✅ Actor가 보고/누르고/입력하는 것 + System이 화면에 보여주는 것만 작성
-> - 협업 규칙: `git pull` → 본인 섹션만 수정 → `git push`
-
----
-
 ## 1. 회원 가입
 
 - **Actor**: 사용자
